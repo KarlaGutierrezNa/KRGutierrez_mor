@@ -1,0 +1,26 @@
+0000000000000000000000000000000000000000 6df51478a9b84a28ec7c09cc9e4fb328ccbd8b22 Karla Gutierrez Ñahui <[kggutierreznahui@iesmordefuentes.com> 1700608208 +0100	commit (initial): Mi primer commit en git
+6df51478a9b84a28ec7c09cc9e4fb328ccbd8b22 65698ba515f4956ade85d3ce68b5469f90bf0da6 Karla Gutierrez Ñahui <[kggutierreznahui@iesmordefuentes.com> 1700609249 +0100	commit: Mi Segundo commit en git
+65698ba515f4956ade85d3ce68b5469f90bf0da6 cf3035f17661942082360c6d9072fbabf9a4efaf Karla Gutierrez Ñahui <[kggutierreznahui@iesmordefuentes.com> 1700613522 +0100	commit: Modificacion
+cf3035f17661942082360c6d9072fbabf9a4efaf 6df51478a9b84a28ec7c09cc9e4fb328ccbd8b22 Karla Gutierrez Ñahui <[kggutierreznahui@iesmordefuentes.com> 1700616002 +0100	checkout: moving from main to 6df5147
+6df51478a9b84a28ec7c09cc9e4fb328ccbd8b22 65698ba515f4956ade85d3ce68b5469f90bf0da6 Karla Gutierrez Ñahui <[kggutierreznahui@iesmordefuentes.com> 1700616154 +0100	reset: moving to 65698ba
+65698ba515f4956ade85d3ce68b5469f90bf0da6 cf3035f17661942082360c6d9072fbabf9a4efaf Karla Gutierrez Ñahui <[kggutierreznahui@iesmordefuentes.com> 1700616265 +0100	reset: moving to cf3035f
+cf3035f17661942082360c6d9072fbabf9a4efaf 65698ba515f4956ade85d3ce68b5469f90bf0da6 Karla Gutierrez Ñahui <[kggutierreznahui@iesmordefuentes.com> 1700616317 +0100	reset: moving to 65698ba
+65698ba515f4956ade85d3ce68b5469f90bf0da6 cf3035f17661942082360c6d9072fbabf9a4efaf Karla Gutierrez Ñahui <[kggutierreznahui@iesmordefuentes.com> 1700616487 +0100	checkout: moving from 65698ba515f4956ade85d3ce68b5469f90bf0da6 to main
+cf3035f17661942082360c6d9072fbabf9a4efaf 65698ba515f4956ade85d3ce68b5469f90bf0da6 Karla Gutierrez Ñahui <[kggutierreznahui@iesmordefuentes.com> 1700756979 +0100	reset: moving to 65698ba
+65698ba515f4956ade85d3ce68b5469f90bf0da6 65698ba515f4956ade85d3ce68b5469f90bf0da6 Karla Gutierrez Ñahui <[kggutierreznahui@iesmordefuentes.com> 1700757081 +0100	checkout: moving from main to 65698ba
+65698ba515f4956ade85d3ce68b5469f90bf0da6 65698ba515f4956ade85d3ce68b5469f90bf0da6 Karla Gutierrez Ñahui <[kggutierreznahui@iesmordefuentes.com> 1700757185 +0100	checkout: moving from 65698ba515f4956ade85d3ce68b5469f90bf0da6 to main
+65698ba515f4956ade85d3ce68b5469f90bf0da6 d22c939bb580f3dce60a65531eca2a2f88b0bf62 Karla Gutierrez Ñahui <[kggutierreznahui@iesmordefuentes.com> 1700758740 +0100	commit: helloworld3
+d22c939bb580f3dce60a65531eca2a2f88b0bf62 63b604e99243716cabf0051c796f32c9452f57bd Karla Gutierrez Ñahui <[kggutierreznahui@iesmordefuentes.com> 1700759272 +0100	commit: helloworld3
+63b604e99243716cabf0051c796f32c9452f57bd 65698ba515f4956ade85d3ce68b5469f90bf0da6 Karla Gutierrez Ñahui <[kggutierreznahui@iesmordefuentes.com> 1700759556 +0100	checkout: moving from main to version_1
+65698ba515f4956ade85d3ce68b5469f90bf0da6 63b604e99243716cabf0051c796f32c9452f57bd Karla Gutierrez Ñahui <[kggutierreznahui@iesmordefuentes.com> 1700759587 +0100	checkout: moving from 65698ba515f4956ade85d3ce68b5469f90bf0da6 to main
+63b604e99243716cabf0051c796f32c9452f57bd 63b604e99243716cabf0051c796f32c9452f57bd Karla Gutierrez Ñahui <[kggutierreznahui@iesmordefuentes.com> 1700759843 +0100	checkout: moving from main to login
+63b604e99243716cabf0051c796f32c9452f57bd 7aa93bd56cd53ab3392e4e5db9e01b0ec33d108e Karla Gutierrez Ñahui <[kggutierreznahui@iesmordefuentes.com> 1700760126 +0100	commit: Primer commit en rama login
+7aa93bd56cd53ab3392e4e5db9e01b0ec33d108e 63b604e99243716cabf0051c796f32c9452f57bd Karla Gutierrez Ñahui <[kggutierreznahui@iesmordefuentes.com> 1700760683 +0100	checkout: moving from login to main
+63b604e99243716cabf0051c796f32c9452f57bd 90701ff3f780cca742a7ba6385796d3a7ebf97b7 Karla Gutierrez Ñahui <[kggutierreznahui@iesmordefuentes.com> 1700761053 +0100	commit: mod en helloworld3 en rama main
+90701ff3f780cca742a7ba6385796d3a7ebf97b7 7aa93bd56cd53ab3392e4e5db9e01b0ec33d108e Karla Gutierrez Ñahui <[kggutierreznahui@iesmordefuentes.com> 1700761278 +0100	checkout: moving from main to login
+7aa93bd56cd53ab3392e4e5db9e01b0ec33d108e 37a3bb8521a4d1ac1a201db34048580edccee61c Karla Gutierrez Ñahui <[kggutierreznahui@iesmordefuentes.com> 1700761817 +0100	commit (merge): helloworld3 login
+37a3bb8521a4d1ac1a201db34048580edccee61c 90701ff3f780cca742a7ba6385796d3a7ebf97b7 Karla Gutierrez Ñahui <[kggutierreznahui@iesmordefuentes.com> 1700761953 +0100	checkout: moving from login to main
+90701ff3f780cca742a7ba6385796d3a7ebf97b7 4b712dab1e4901e9807e2a3c233071b846c5f064 Karla Gutierrez Ñahui <[kggutierreznahui@iesmordefuentes.com> 1700762046 +0100	commit: helloworld3 master
+4b712dab1e4901e9807e2a3c233071b846c5f064 37a3bb8521a4d1ac1a201db34048580edccee61c Karla Gutierrez Ñahui <[kggutierreznahui@iesmordefuentes.com> 1700762070 +0100	checkout: moving from main to login
+37a3bb8521a4d1ac1a201db34048580edccee61c c73b1300e5e13b7f23ef8cff7e5441d2a6568e56 Karla Gutierrez Ñahui <[kggutierreznahui@iesmordefuentes.com> 1700762415 +0100	commit (merge): Coreccion conflicto
+c73b1300e5e13b7f23ef8cff7e5441d2a6568e56 4b712dab1e4901e9807e2a3c233071b846c5f064 Karla Gutierrez Ñahui <[kggutierreznahui@iesmordefuentes.com> 1700767416 +0100	checkout: moving from login to main
